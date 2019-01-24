@@ -1,0 +1,153 @@
+
+http://www.europarl.europa.eu/RegData/bibliotheque/briefing/2014/130710/LDM_BRI(2014)130710_REV2_EN.pdf
+
+it is not required to publicly register cases.
+
+most cases are confidential
+
+the icsid publishes most, but not all, cases and awards.
+
+all case details arbitrated through the international chamber of commerce are secret
+
+in 2012, 64% of claimants were in developed countries, 66% of respondents were in developing/emerging countries
+latin american countries face the most isds cases, while the use is the origin of 24% of all claimants
+
+42% of cases are in favor of the state, 31% in favor of the investor, 27% are settled
+
+few agreements address conflicts of interest and impartiality of arbitrators.
+the arbitration industry actively promotes the ids system. not only are these lawyers often appointed to the boards of multinationals, they are often prominent academic experts and in control of specialist journals.
+
+under nafta, over $350 million has ben awarded in compensation.
+
+average legal and arbitration costs of a case are $8 million, 80% of which goes toward the cost of legal representation and experts. law firms charge up to. $1000 per hour per lawyer. arbitrators fees average $3000 per day plus travel and subsistence.
+
+in recent years, "third-party funding of claims" has become more common, where "investment firms offer to invest in a company's cases in exchange for 20-50% of the potential final compensation awarded. this reduces risk for companies, leading to an increase in frivolous cases for which states still bear full legal costs."
+
+in 2012, ecuador had to pay occidental petroleum $2.4 billion
+
+there is no mechanism for appeal
+
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+https://www.tni.org/en/briefing/profiting-injustice
+
+number of cases has increased from 38 in 1996 to 450 in 2011 (cases registered at icsid, so the actual numbers are likely higher)
+
+in 2009/2010 151 cases involved corporations demanding at least $100 million
+
+law firms charge up to $1000 per hour per lawyer, which is paid by taxpayers. in one case, arbitrator salaries were almost $1 million.
+
+Just 15 lawyers acted as arbitrators in 55% of all cases, and 75% of all "big" ones (with compensation of over US$4 billion).
+
+several prominent arbiters have been members of the board of corps which have filed cases against developing nations
+
+law firms encourage lawsuits against governments in crisis and threatening lawsuits to weaken or prevent laws on public health or environmental protection
+
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+https://en.wikipedia.org/wiki/Investor-state_dispute_settlement
+
+In 2011, the Australian government announced that it would discontinue the practice of seeking inclusion of investor state dispute settlement provisions in trade agreements with developing countries, but as of 2013, when a conservative government was in power, has entered into additional agreements that include ids (get updated info)
+
+ Karel De Gucht, the EU commissioner in charge of negotiating International Investment Agreements paid lip service to making shit better, who knows
+
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+https://www.economist.com/finance-and-economics/2014/10/11/the-arbitration-game
+
+"There are several reasons for the sharp rise in contentious arbitrations, says Lori Wallach of Public Citizen, a watchdog group. Companies have learnt how to exploit ISDS clauses, even going as far as buying firms in jurisdictions where they apply simply to gain access to them. Arbitrators are paid $600-700 an hour, giving them little incentive to dismiss cases out of hand; the secretive nature of the arbitration process and the lack of any requirement to consider precedent allows plenty of scope for creative adjudications."
+
+there is already a mechanism in place to protect foreign investors in the form of political-risk insurance, making isds unnecessary. for example, Brazil refuses to sign treaties with an ids mechanism, but it still receives plenty of foreign investment
+
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________
+
+https://www.oecd.org/daf/inv/investment-policy/WP-2012_2.pdf
+
+in a sample of 1660 bilateral investment treaties (BITs):
+
+96% contain language on ISDS
+most treaties only deal with a few of the 17 isds issues identified
+56% of treaties offer investors to choose from at least two arbitration fora, and the number offered has increased over time. "icsid and ad hoc tribunals established under uncitral rules are by far the most frequently proposed fora"
+there is little regulation, and treaties have a "relatively thinly defined procedural framework compared to advanced domestic procedural frameworks" but regulation is increasing over time
+isds provisions are very diverse, with 1000 different rule sets
+
+6.5% do not provide for international arbitration
+70% explicitly mention domestic judicial review as a dispute settlement mechanism
+countries in the global north (the source of investors) are much less likely to include domestic remedies in their isds clause
+
+57% provide recourse to both international and domestic courts
+39% of treaties allowing a choice between domestic and international arbitration allow that choice to be made only once.
+24% makes only once choice explicitly final, the large majority of these making the domestic choice final.
+
+81% require dispute settlement procedures before arbitration can begin.
+
+for 93% of treaties that allow access to international arbitration, there is no explicit statute of limitations. in contrast, almost all domestic adjudication procedures have such limits
+
+the icsid and ad hoc tribunals established according to uncitral rules are by far the most often mentioned as possible fora for isds, although icsid is only available if treaty partners are icsid convention members.
+
+"From a functional perspective, organisational rules covered in this section seek to ensure that an impartial arbitral tribunal composed of competent arbitrators make an informed decision in a reasonably brief period of time. Given this important role, the rarity of such provisions – with the exception of rather basic rules on the composition of arbitral tribunals – is remarkable; moreover, many of these provisions are concentrated in a small number of treaties."
+
+both icsid and uncitral rules set a three member arbitral panel, in which each party chooses one arbitrator. in icsid, both parties agree on the third, and uncitral, the two arbitrators agree on the third.
+
+16% specify the roles on the composition of arbitral tribunals.
+
+1.5% of bits, multilateral agreements such as nafta, and the icsid include language restricting the population of individuals form which parties can choose arbitrators
+
+no treaties explicitly require arbitrators to be impartial, though many disallow arbitrators to have the nationality of either party.
+
+8% of BITS have provisions on remedies, 7% positive, 2% negative, 2% both. negative provisions may include prohibitions on tribunals to:
+	award anything other than monetary damages
+	award punitive damages
+	grant compensation that exceeds guidelines provided in the treaty, or
+	evaluate the legality of the domestic law or regulation of the hot state
+
+many treaties mention arbitration costs. 9% of treaties cover the allocation of arbitration costs for all available or specified arbitration fora. they usually specify that each party bears its own costs, including the cost of its arbitrator. around 49% of the treaties that establish cost allocation rules re-introduce discretion for the tribunals and allow them to allocate costs differently. under the uncitral arbitration rules (2010), the unsuccessful party pays the costs
+
+10 treaties require the claimants of frivolous claims bear the costs
+
+62% specify the legal status of awards (that they are final and/or binding). 55% of treaties state that the respondent state is to enforce an award, typically under its domestic laws. cost icsid convention and uncitral arbitration rules state that awards are final and binding
+
+8 treaties contain provisions regarding public access to hearings of arbitral tribunals. 35 treaties provide for publication of awards.
+25 treaties contain provisions on the participation of non-disputing parties, experts, *amici curiae* or other interested individuals or entities
+
+32 treaties require tribunals to provide reasons for decisions, some of which only require that reasoning be provided when requested by either party to the dispute
+
+key findings:
+there is very little regulation of isds proceedings. "While 17 issues scored in this analysis are addressed in at least 1% of the treaties, only eight issues appear in at least 10% of treaties. Only two issues appear in more than half of the samples treaties; and, on average, treaties address fewer than three issues each."
+
+The seventeen categories of issues identified in the ISDS provisions of the sample treaties include, in the order frequency: 
+• provision onthe legal quality of awards (961 occurrences, 61.9 % of treati es); 
+• provision on enforcement (857 occurrences, 55. 2% of treaties); 
+• defendant States may not assert as a defense or the like compensation that the investor has obtained from an insurance or guarantee (631 occurrences, 40. 7% of treaties); 
+• provision on appli cable law (499 occurrences, 32.2% of treaties); 40 
+• prohibition to grant diplomatic protection once arbitration has begun (323 occurrences, 20.8% of treaties); 
+• clause on foreign owned domestically incorporated enterprises (303 occurrences, 19.5 % of treaties); 93 
+• provision onsitus of arbitration (188 occurrences, 12.1% of treaties); 
+• provision on cost allocation (173 occurrences, 11.1 % of treaties); 
+• specification of content of awards (149 occurrences, 9. 6% of treaties); 
+• limitation periods (101 occurrences, 6.5% of treaties); 
+• interim measures(89 occurrences, 5.7 % of treaties); 
+• provision on State immunity (68 occurrences, 4.4% of treaties); 
+• consolidation of claims (45 occurrences, 2.9% of treaties); 
+• provision on publication of the award (35 occurrences, 2.3% of trea ties); 
+• motivation of arbitral decisions (3 2 occurrences, 2.1% of treaties); 
+• involvement of experts, amici curiae , and non- disputing parties (2 5 occurrences, 1. 6% of treaties);and 
+• a specification of the required qualification of arbitrators (24 occurrences , 1.5%of treaties) 
+
+"All in all, there are probably more than 1,200 different ISDS clauses in the roughly 1,500 treaties that provide for ISDS through international arbitration. Such variation in the treaty language is likely to both motivate and complicate possible harmonisation of international investment law. It may also affect the apparent consistency of arbitral awards, and increase the costs of arbitration and other dispute settlement, since each difference in language opens an angle for difference in interpretation and consequently different decisions of similar matters. Differences in treaty provisions, even slight differences, invite legal counsel to argue for different treatment, which in turn, requires arbitrators to respond to such legal reasoning, thereby driving up fees for legal counsel and arbitrators alike."
+
+"A sizeable number of treaties in the sample feature editorial anomalies ranging from missing signature dates in signed treaties, clauses with obvious grammatical errors that leave the meaning cryptic, or a very unusual choice of terminology. Also, where alignment of provisions carries meaning – indents for instance –, some treaty provisions seem to be presented in a fashion that is unlikely to be intentional. It appears that multilateral treaties and non
+-BIT treaties suffer less from such phenomena.
+While editorial shortcomings occur in all kinds of legal documents, the relative frequency of such issues in the treaty sample – of which only a fraction of the overall text has been analysed for the purpose of this study – would seem to exceed the frequency of such shortcomings in such legal texts as national laws or, arguably, many other types of treaty. "
+
+
+
+
+
+
+todo:compare BITs, FTAs and EPAs. FTA and EPAs tend to have better rules than BITs
+who authors the trade agreements?
